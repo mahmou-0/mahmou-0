@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud </h1>
-<h3 align="center">A passionate full Stack developer f</h3>
+<h1 align="center">Hi there 👋, I'm Mahmoud </h1>
+<h3 align="center">I'm a Sakarya University CSE Graduate, passionate full Stack developer </h3>
 
 - 🔭 I’m currently working on **Last minute aucation hotel-booking**
 
